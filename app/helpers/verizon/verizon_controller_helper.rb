@@ -1,0 +1,2 @@
+module Verizon::VerizonControllerHelper
+end

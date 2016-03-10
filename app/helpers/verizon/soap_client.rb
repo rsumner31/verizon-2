@@ -1,0 +1,2 @@
+class Verizon::SoapClient
+end
